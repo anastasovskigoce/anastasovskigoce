@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hey, it is Goce here 👋
+
+I am an Android developer at Alarm.com where I lead a team of several mobile engineers focusing on video streaming. Over the years mastering Android has been my focus but I have an appetite for learning and I am curios by nature, thus, I am currently learning React and NodeJS. I am also an expiring conference speaker. Check out my [web site](https://ganastasovski.com/) for more details about me and my conference talks.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anastasovskigoce&theme=default&show_icons=true&count_private=true)
-
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasovskigoce)
 
