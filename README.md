@@ -1,6 +1,6 @@
 ### Hey, it is Goce here 👋
 
-I am an Engineering Manager at Alarm.com where I lead several teams working on video streaming. Over the years mastering Android has been my passion, but I have an appetite for learning, thus, I am currently looking into React and NodeJS. I use my spare time working on tech talks; check out my [web site](https://ganastasovski.com/) for more details about.
+I am an Engineering Manager at Alarm.com where I lead several teams working on video streaming. Over the years mastering Android has been my passion, but I have an appetite for learning new things in technology. I use my spare time working on tech talks; check out my [web site](https://ganastasovski.com/) for more details.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anastasovskigoce&theme=default&show_icons=true&count_private=true)
 
